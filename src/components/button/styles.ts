@@ -27,6 +27,6 @@ export const Container = styled.button<ContainerProps>`
     `}
 
    &:hover {
-    background-color: ${theme.colors.primaryDarck};
+    background-color: ${theme.colors.primaryDark};
    }
 `;
